@@ -2,17 +2,7 @@
 #include <string>
 
 using namespace std;
-/*
-"Enter your age: "
-"Enter your height: "
-"Enter your property: "
-"Your status = "
-"UNFRIEND"
-"FRIEND"
-"BEST FRIEND"
-"ONE-NIGHT-STAND"
-"MARRIED"
-*/
+
 
 int main()
 {
